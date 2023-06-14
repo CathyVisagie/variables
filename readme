@@ -1,0 +1,18 @@
+Follow these steps:
+● Create a JavaScript file called myVariables.js.
+● Create the following variables with the correct data types (as indicated by
+their names) as their values. You can choose the values themselves:
+myFirstNumber, mySecondNumber, myFirstString, mySecondString and
+myBoolean.
+● Output the result of multiplying the two numerical variables.
+● Concatenate the two strings and output the result.
+● Using template literals, output a multiline string which might read as
+follows:
+The boolean is: true
+The first number is: 6
+The second number is: 5
+6 x 5 = 30
+The first string is: This is my first string.
+The second string is: This is my second string!
+These two together make: This is my first string. This is my
+second string!
